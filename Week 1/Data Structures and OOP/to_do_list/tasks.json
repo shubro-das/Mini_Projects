@@ -1,0 +1,17 @@
+[
+    {
+        "task_id": "1",
+        "description": "roadmap",
+        "completed": true
+    },
+    {
+        "task_id": "2",
+        "description": "research paper writing",
+        "completed": true
+    },
+    {
+        "task_id": "3",
+        "description": "competitive programming",
+        "completed": false
+    }
+]
